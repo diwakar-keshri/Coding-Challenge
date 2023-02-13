@@ -32,4 +32,5 @@ After installation of PHP Unit Testing open the terminal and go to the path of u
 To run the testcase you have to use the below mentioned path in terminal
 
 ./vendor/bin/phpunit Accounttest.php
+
 ./vendor/bin/phpunit Transactiontest.php
